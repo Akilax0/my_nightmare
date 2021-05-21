@@ -1,0 +1,14 @@
+looking in ghidra can find input args into validate function
+returns int
+if int == 0 failed
+else 
+	pass
+
+------------------------Looking at validate func--------------------------
+
+Observing function can see 
+
+ox28 = 40 target
+
+observing stack values and making all hex to char by a script
+	return flag{HuCf_lAb} 
